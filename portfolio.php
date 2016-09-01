@@ -37,8 +37,11 @@ include ('menu.php');
             <li class="projet"><a href="images/Site village/index.html" target="_blank">Mon village Bootstrap</a></li>
             <li class="projet"><a href="http://www.projetSaint-Didier.fr" target="_blank">Mon village Wordpress</a></li>
             <li class="projet"><a href="#" target="_blank">Gestionnaire de livres Symfony2/Bootstrap</a></li>
-            <li class="projet"><a href="#" target="_blank">Mon site personnel Symfony2/Bootstrap/JQuery</a></li>
+            <li class="projet"><a href="#" target="_blank">Mon site personnel PHP/Bootstrap/JQuery</a></li>
             <li class="projet"><a href="http://www.sensabloc.fr" target="_blank">Site sensabloc</a></li>
+            <li class="projet"><a href="http://nalo-oc-projet6.herokuapp.com/" target="_blank">Site Nos amis les Oiseaux (projet en groupe / Poste d'intégratrice et de Chef de projet)</a></li>
+            <li class="projet"><a href="https://projet-louvre.herokuapp.com/" target="_blank">Billetterie du Louvre</a></li>
+            <li class="projet"><a href="https://github.com/bonetaurelie/projetMultilingua.git" target="_blank">Projet IONIC</a></li>
 
         </ul>
     </div>
@@ -67,6 +70,14 @@ include ('menu.php');
                 <div class="item">
                     <img src="images/sensabloc.PNG" alt="Projet Sensabloc">
                 </div>
+
+                <div class="item">
+                    <img src="images/accueilNAO.PNG" alt="Projet Nos Amis les Oiseaux">
+                </div>
+
+                <div class="item">
+                    <img src="images/accueilLouvre.PNG" alt="Projet Billetterie du Louvre">
+                </div>
             </div>
             <!-- Controls -->
             <a class="left carousel-control" href="#portofolio" role="button" data-slide="prev">
@@ -84,6 +95,9 @@ include ('menu.php');
                 <li data-target="#portofolio" data-slide-to="2"></li>
                 <li data-target="#portofolio" data-slide-to="3"></li>
                 <li data-target="#portofolio" data-slide-to="4"></li>
+                <li data-target="#portofolio" data-slide-to="5"></li>
+                <li data-target="#portofolio" data-slide-to="6"></li>
+                <li data-target="#portofolio" data-slide-to="7"></li>
             </ol>
         </div>
     </div>
