@@ -9,6 +9,8 @@
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="icon" type="images/png" href="images/png/favicon2.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="images/x-icon/favicon2.ico/favicon.ico" />
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 
@@ -31,7 +33,7 @@ include ('menu.php');
             <img src="images/photoidentiteaureliebonet.jpg" alt="photo identité" class="img-circle">
             <blockquote>"La vie n'est pas un long un fleuve tranquille."</blockquote><br/>
             <p class="text-center">Cette phrase a un sens tout particulier pour moi car depuis mon départ de l'Armée, il a fallu que je fasse preuve de motivation et de persévérance  pour me reconvertir à chaque fois que le besoin s'en faisait ressentir.<br/>
-                Aujourd'hui, mon but est atteint, je suis en voie de <strong>devenir développeuse web</strong> et mon souhait est de <strong>m'épanouir dans ce domaine</strong>.<br/>
+                Aujourd'hui, mon but est atteint, je suis <strong>développeuse web</strong> et mon souhait est de <strong>m'épanouir dans ce domaine</strong>.<br/>
                 Mon profil vous intéresse, poursuivez la visite...</p>
         </div>
     </div>
@@ -45,6 +47,7 @@ include ('footer.php');
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="script.js"></script>
 <script src="js/bootstrap.min.js"></script>
 </body>
 </html>
