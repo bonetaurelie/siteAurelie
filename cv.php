@@ -65,13 +65,13 @@ include ('menu.php');
                 <div class="panel-body competences">
                     <p>HTML5/CSS3</p>
                     <div class="progress">
-                        <div class="progress-bar progress-bar-default progress-bar-striped" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 75%">
+                        <div class="progress-bar progress-bar-default progress-bar-striped" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
                         </div>
                     </div>
 
                     <p>Bootstrap</p>
                     <div class="progress">
-                        <div class="progress-bar progress-bar-default progress-bar-striped" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+                        <div class="progress-bar progress-bar-default progress-bar-striped" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 70%">
                         </div>
                     </div>
 
@@ -87,9 +87,9 @@ include ('menu.php');
                         </div>
                     </div>
 
-                    <p>Symfony2</p>
+                    <p>Symfony2 et 3</p>
                     <div class="progress">
-                        <div class="progress-bar progress-bar-default progress-bar-striped" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:50%">
+                        <div class="progress-bar progress-bar-default progress-bar-striped" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:60%">
                         </div>
                     </div>
 
@@ -117,9 +117,15 @@ include ('menu.php');
                         </div>
                     </div>
 
-                    <p>Capacité à travailler en équipe</p>
+                    <p>Gestion de projet</p>
                     <div class="progress">
-                        <div class="progress-bar progress-bar-default progress-bar-striped" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 85%">
+                        <div class="progress-bar progress-bar-default progress-bar-striped" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 75%">
+                        </div>
+                    </div>
+
+                    <p>IONIC</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-default progress-bar-striped" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 65%">
                         </div>
                     </div>
                 </div>
