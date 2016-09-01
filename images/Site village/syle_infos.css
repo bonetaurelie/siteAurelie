@@ -1,0 +1,51 @@
+            @font-face{
+                font-family:'Calligraffiti.ttf';
+                src: url('calligraffiti.zip Folder/Calligraffiti.ttf');
+            }
+
+            @font-face{
+                font-family:'Cantarell-Regular.ttf';
+                src: url('cantarell.zip Folder/Cantarell-Regular.ttf');
+            }
+
+            h1,h2,h3,h4 body{
+                font-family: 'Calligraffiti.ttf';
+            }
+
+            body{
+                font-family: 'Cantarell-Regular.ttf';
+                margin-top: 50px;
+                color: black;
+            }
+
+            h1{
+                padding-bottom: 50px;
+            }
+
+            .media-object{
+                width: 400px;
+                height: 200px;
+                padding-top: 15px;
+            }
+
+
+            @media (max-width: 768px){
+                .media-object{
+                    width: 400px;
+                    height: 200px;
+            }
+
+            .media-body{
+                display: inline;
+            }
+
+            body{
+                margin-top: 50px;
+            }
+
+            h1{
+                padding-bottom: 50px;
+            }
+            }
+
+

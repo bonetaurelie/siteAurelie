@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+        <title>Site du village - nous contacter</title>  
+<!-- Bootstrap -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="style_contact.css">
+        
+
+
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+     </head>
+
+    <body>
+        <div class="container">
+            <div class="row">
+                <nav class="navbar navbar-default navbar-fixed-top">
+                    <div class="container-fluid">
+                        <div class="navbar-header">
+                            <button type="button" data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand">Village de Saint-Didier</a>
+                        </div>
+                        <div class="collapse navbar-collapse" id=navbar-collapse>   
+                            <ul class="nav navbar-nav">
+                                <li class="active navbar-nav">
+                                    <div class="input-group">
+                                        <a href="index.html"><span class="glyphicon glyphicon-home"></span></a>
+                                        <a href="index.html">Accueil</a>
+                                    </div>    
+                                </li>
+                                <li ><a href="plus_infos.html">Plus d'infos</a></li>
+                                <li><a href="act_mois.html">Activités du mois</a></li>
+                                <li><form class="navbar-form navbar-left">
+                                    <div class="form-group">
+                                        <input  type="text" class="form-control" placeholder="Rechercher">
+                                    </div>
+                                    <button type="submit" class="btn btn-default">
+                                    <span class="glyphicon glyphicon-eye-open"></span>                                        
+                                    </button>
+                                    </form>
+                                </li>
+                                <li class="nav navbar-nav right"><a href="contact.html">Contact</a></li>
+                                <li><form class="navbar-form navbar-right" action="espace_membre.html" method="get">
+                                    <input type="submit" class="btn btn-default" value="Connexion"/>
+                                    </form>
+                                </li>  
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+        <div class="container">
+            <h1 class="text-center">Nous contacter</h1>
+            <form class="form horizontal text-center">
+                <div class="form-group col-lg-offset-2 col-lg-8">
+                    <i class="fa fa-align-justify"><label for="titre">Titre du message:</i><input type="text" id="titre" class="form-control"></label>
+                </div>
+                <div class="form-group col-lg-offset-2 col-lg-8">
+                    <i class="fa fa-align-justify"><label for="nom">Votre nom: </i><input type="text" id="nom" class="form-control"></label>
+                </div>
+                <div class="form-group has-feedback col-lg-offset-2 col-lg-8">
+                    <i class="fa fa-calendar">
+<label class="control-label" for="naissance">Votre date de naissance:</i> <input type="text" id="naissance" class="form-control"></label>
+                    <span class="help-block">La date doit être au format JJ/MM/AAAA.</span>
+                </div>
+                <div class="form-group col-lg-offset-2 col-lg-8">
+                    <i class="fa fa-envelope">
+<label for="email">Votre email:</i><input type="text" id="email" class="form-control"></label>
+                </div>
+                <div class="form-group col-lg-offset-2 col-lg-8">
+                    <label for="résident"><b>Résident du village:</b> <input type="checkbox" id="résident"/> </label>
+                </div>
+                <div class="form-group col-xs-offset-3 col-xs-6 col-sm-offset-4 col-sm-4 col-md-offset-4 col-md-4 col-lg-offset-2 col-lg-8">
+                    <i class="fa fa-globe">
+<label for="nationalité">Nationalité:</i></label>
+                    <select id="nationalité" class="form-control">
+                        <option>française</option>
+                        <option>italienne</option>
+                        <option>anglaise</option>
+                        <option>grecque</option>
+                        <option>russe</option>
+                    </select>
+                </div>
+                <div class="form-group col-xs-offset-2 col-xs-8 col-md-offset-4 col-md-4 col-lg-offset-2 col-lg-8">
+                    <i class="fa fa-align-justify">
+<label for="message">Message: </i><textarea id="message" class="form-control"></textarea></label>
+                </div>
+                    <button class="btn btn-default col-xs-offset-4 col-xs-4 col-sm-offset-5 col-sm-2" type="submit"><span class="glyphicon glyphicon-ok-sign"></span>Envoyer</button>
+            </form>
+        </div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+
+    </body>
+</html>

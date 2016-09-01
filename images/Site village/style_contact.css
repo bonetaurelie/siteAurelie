@@ -1,0 +1,100 @@
+            @font-face{
+                font-family:'Calligraffiti.ttf';
+                src: url('calligraffiti.zip Folder/Calligraffiti.ttf');
+            }
+
+            @font-face{
+                font-family:'Cantarell-Regular.ttf';
+                src: url('cantarell.zip Folder/Cantarell-Regular.ttf');
+            }
+
+            h1,h2,h3,h4 body{
+                font-family: 'Calligraffiti.ttf';
+            }
+
+             h1{
+                margin-top: 70px;
+                padding-bottom: 50px;
+            }
+
+            body{
+                font-family: 'Cantarell-Regular.ttf';
+                margin-top: 50px;
+                color: black;
+                background-color:  #c6e6fd;
+            }
+
+            .btn-default{
+                background-color: #87bbeb;
+            }
+
+            textarea[id="message"]{
+                resize: none;
+                overflow: auto;
+            }
+
+            /*barre navigation*/
+            
+            .input-group{
+                margin-top: 15px;
+            }
+            .navbar-default{
+                background-color: #87bbeb;    
+            }
+
+            .btn-default{
+                background-color: #5998d2;
+            }
+
+            .navbar-brand{
+                font-size: 1.5em;
+                padding-right: 60px;
+                padding-top: 25px;
+            }
+
+            .navbar-collapse{
+                margin-top: 15px;
+            }
+
+
+            @media (min-width: 768px){
+                textarea[id="message"]{
+                    resize: none;
+                    overflow: auto;
+                }
+            }
+
+            @media (min-width: 992px){
+                textarea[id="message"]{
+                    resize: none;
+                    overflow: auto;
+                }
+                
+                /*barre navigation*/
+                .navbar-brand{
+                    font-size: 1.5em;
+                    padding-right: 15px;
+                    padding-top: 30px;
+                }  
+            }
+
+            @media (min-width: 1200px){
+                h1{
+                    padding-bottom: 50px;
+                }
+
+                textarea[id="message"]{
+                    resize: none;
+                    overflow: auto;
+                }
+                
+                 /*barre navigation*/
+                .navbar-brand{
+                    padding-top: 30px;
+                    padding-left: 200px;
+                }
+
+                .navbar-collapse{
+                    padding-left: 200px;
+                }
+            }

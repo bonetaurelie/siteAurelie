@@ -1,0 +1,113 @@
+            @font-face{
+                font-family:'Calligraffiti.ttf';
+                src: url('calligraffiti.zip Folder/Calligraffiti.ttf');
+            }
+
+            @font-face{
+                font-family:'Cantarell-Regular.ttf';
+                src: url('cantarell.zip Folder/Cantarell-Regular.ttf');
+            }
+
+            h1,h2,h3,h4 body{
+                font-family: 'Calligraffiti.ttf';
+            }
+
+            body{
+                font-family: 'Cantarell-Regular.ttf';
+                margin-top: 50px;
+                color: black;
+                background-color:  #c6e6fd;
+            }
+
+            h1{
+                margin-top: 70px;
+                padding-bottom: 50px;
+            }
+
+            .media-object{
+                width: 400px;
+                height: 200px;
+                padding-top: 15px;
+            }
+
+             /*barre navigation*/
+            
+            .input-group{
+                margin-top: 15px;
+            }
+            .navbar-default{
+                background-color: #87bbeb;    
+            }
+
+            .btn-default{
+                background-color: #5998d2;
+            }
+
+
+            .navbar-brand{
+                font-size: 1.5em;
+                margin-left: 10px;
+                padding-right: 60px;
+                padding-top: 25px;
+            }
+
+            .navbar-collapse{
+                margin-top: 15px;
+            }
+
+            @media (min-width: 1200px){  
+                .media-object{
+                    width: 400px;
+                    height: 200px;
+                    padding-top: 15px;
+            }
+                
+             /*barre navigation*/
+                .navbar-brand{
+                    padding-top: 30px;
+                    padding-left: 200px;
+                }
+
+                .navbar-collapse{
+                    padding-left: 200px;
+                }
+            }
+
+            @media (min-width: 992px){
+                
+            /*barre navigation*/
+                .navbar-brand{
+                    font-size: 1.5em;
+                    padding-right: 15px;
+                    padding-top: 30px;
+                }  
+            }
+
+            @media (min-width: 768px){
+                .media-object{
+                    width: 400px;
+                    height: 200px;
+            }
+
+            
+            body{
+                margin-top: 50px;
+            }
+
+            h1{
+                padding-bottom: 50px;
+            }
+            }
+
+            @media (max-width: 768px){
+                .media-object{
+                    width: 400px;
+                    height: 200px;
+            }
+                
+                .media-body{
+                    display: inline;
+                }
+            }
+
+
