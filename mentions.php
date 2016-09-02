@@ -9,8 +9,7 @@
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel="icon" type="images/png" href="images/png/favicon2.png" />
-    <link rel="shortcut icon" type="image/x-icon" href="images/x-icon/favicon2.ico/favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="images/x-icon/faviconBis.ico" />
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 
