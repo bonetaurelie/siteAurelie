@@ -45,7 +45,8 @@ include ('menu.php');
                 </div>
                 <div class="panel-body experience">
                     <ul>
-                        <li><b>21012-mars 2014 :</b> Poste de vendeuse et de pâtissière à La Pétrie de Kilian à Pernes les Fontaines.</li>
+                        <li><p></p><b>Décembre 2015-août 2016 :</b> Réalisation de plusieurs projets en vue de valider le titre professionnel de Chef de projet Multimédia-Développement.</li>
+                        <li><p></p><b>Octobre 2012-mars 2014 :</b> Poste de vendeuse et de pâtissière à La Pétrie de Kilian à Pernes les Fontaines.</li>
                         <li><p><b>Setpembre 2010-Septembre 2011 :</b> Assistante Marketing et commerciale sédentaire à Jeux de Lumière, Avignon en alternance.</p>
                             <p>Durant mon contrat, j'ai réfléchi sur la stratégie pour le développement de l'activité de la société, prospecté de la clientèle, suivi et relancé des dossiers mais aussi effectué du conseil et de la vente.</p></li>
                         <li><p><b>Février à Avril 2009 :</b> Stagiaire en communication à la Communauté de Communes de la CoVe à Carpentras.</p>
@@ -139,8 +140,7 @@ include ('menu.php');
                 </div>
                 <div class="panel-body education">
                     <ul>
-                        <li><b>2015 - 2016 :</b> Formation en vue d'obtenir le titre professionnel de niveau II de Chef de projet Multimédia - Développement chez Openclassrooms</li>
-                        <li><b>2012 - 2013 :</b> CAP Pâtisserie</li>
+                        <li><b>2015 - 2016 :</b> Niveau titre professionnel de niveau II Chef de projet Multimédia - Développement à Openclassrooms (en attente de validation)</li>
                         <li><b>2010 - 2011 :</b> DEES Marketing préparé en alternance à Eurexia Avignon.
                             <p><b><i><u>Enseignements suivis:</u></i></b> Europe, Anglais, Markeitng</p></li>
                         <li><b>2008 - 2010 :</b> BTS Communication des entreprises au CNED.
