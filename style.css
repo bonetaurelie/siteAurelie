@@ -35,6 +35,7 @@ html{
     margin-top: 50px;
     font-size:1.5em;
     font-weight: bold;
+    line-height: 1.6em;
 }
 
 .index img{
@@ -67,6 +68,7 @@ a:hover{
     padding-top:110px;
     padding-left: 20px;
     font-size: 1.3em;
+    line-height: 2.2em;
 }
 
 .cv{
@@ -114,11 +116,6 @@ a:hover{
 
 .competences{
     font-weight: bold;
-    margin-bottom: 30px;
-}
-
-.interet{
-    margin-bottom: 58px;
 }
 
 .cercle1{
@@ -332,11 +329,11 @@ footer p{
 @media all and (min-width:992px) {
     .competences{
         font-weight: bold;
-        margin-bottom: 205px;
+        margin-bottom: 290px;
     }
 
     .interet{
-        margin-bottom: 70px;
+        margin-bottom: 166px;
     }
 
     .bordure{
@@ -349,11 +346,11 @@ footer p{
 @media all and (min-width:1200px) {
     .competences{
         font-weight: bold;
-        margin-bottom: 30px;
+        margin-bottom: 85px;
     }
 
     .interet{
-        margin-bottom: 30px;
+        margin-bottom: 100px;
     }
 
     .bordure{

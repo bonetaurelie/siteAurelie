@@ -139,9 +139,10 @@ include ('menu.php');
                 </div>
                 <div class="panel-body education">
                     <ul>
-                        <li><b>2015 - 2016 :</b> Niveau titre professionnel de niveau II Chef de projet Multimédia - Développement à Openclassrooms (en attente de validation)</li>
+                        <li><b>2015 - 2016 :</b> Niveau titre professionnel de niveau II Chef de projet Multimédia - Développement à Openclassrooms (en attente de validation).
+                            <p><b><i><u>Enseignements suivis:</u></i></b> HTML5/CSS3, PHP, Symfony3, JS/Jquery, Git, Wordpress, IONIC, Gestion de projet</p></li>
                         <li><b>2010 - 2011 :</b> DEES Marketing préparé en alternance à Eurexia Avignon.
-                            <p><b><i><u>Enseignements suivis:</u></i></b> Europe, Anglais, Markeitng</p></li>
+                            <p><b><i><u>Enseignements suivis:</u></i></b> Europe, Anglais, Marketing</p></li>
                         <li><b>2008 - 2010 :</b> BTS Communication des entreprises au CNED.
                             <p><b><i><u>Enseignements suivis:</u></i></b> Stratégie de communication, Management, Droit, Espagnol, Anglais</p></li>
                         <li><b>2003 - 2004 :</b> 1ère année DEUG AES à l'Université d'Avignon.
