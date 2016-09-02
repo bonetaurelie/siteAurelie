@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -30,10 +30,9 @@ include ('menu.php');
 <div class="container">
     <div class="presentation">
         <div class="text-center2">
-            <p>La vie n'est pas un long fleuve tranquille, il est donc important de savoir réagir et de s'adapter aux aléas de la vie.</p>
-            <p>Telle est ma conception de la vie aujourd'hui, surtout professionnelle.</p>
-            <p>Depuis mon départ de l'Armée de Terre, j'ai su m'adapter et me former afin de développer mes compétences professionnelles.</p>
-            <p>Je suis une personne motivée, qui sait se rendre disponible quand cela est nécessaire et qui s'investit dans son travail.</p>
+            <p>De niveau de formation <span class="dev"><strong>titre professionnel de niveau II Chef de Projet Multimédia - Développement</strong></span> (je suis en attente de la validation de celui-ci), je suis actuellement à la recherche d'un emploi en tant que <span class="dev"><strong>développeuse junior</span></strong> ou <span class="dev"><strong>assistante Chef de projet</span></strong>, je suis une personne qui s'implique dans son travail et
+            qui est vraiment motivée.<br/>
+            De plus, je sais me rendre disponible quand cela est nécessaire et me former sur de nouvelles compétences ne m'effraie pas.</p>
         </div>
     </div>
 
@@ -45,9 +44,9 @@ include ('menu.php');
                 </div>
                 <div class="panel-body experience">
                     <ul>
-                        <li><p></p><b>Décembre 2015-août 2016 :</b> Réalisation de plusieurs projets en vue de valider le titre professionnel de Chef de projet Multimédia-Développement.</li>
-                        <li><p></p><b>Octobre 2012-mars 2014 :</b> Poste de vendeuse et de pâtissière à La Pétrie de Kilian à Pernes les Fontaines.</li>
-                        <li><p><b>Setpembre 2010-Septembre 2011 :</b> Assistante Marketing et commerciale sédentaire à Jeux de Lumière, Avignon en alternance.</p>
+                        <li><p><b>Décembre 2015-août 2016 :</b> Réalisation de plusieurs projets en vue de valider le titre professionnel de Chef de projet Multimédia-Développement.</p></li>
+                        <li><p><b>Octobre 2012-mars 2014 :</b> Poste de vendeuse et de pâtissière à La Pétrie de Kilian à Pernes les Fontaines.</p></li>
+                        <li><p><b>Septembre 2010-Septembre 2011 :</b> Assistante Marketing et commerciale sédentaire à Jeux de Lumière, Avignon en alternance.</p>
                             <p>Durant mon contrat, j'ai réfléchi sur la stratégie pour le développement de l'activité de la société, prospecté de la clientèle, suivi et relancé des dossiers mais aussi effectué du conseil et de la vente.</p></li>
                         <li><p><b>Février à Avril 2009 :</b> Stagiaire en communication à la Communauté de Communes de la CoVe à Carpentras.</p>
                             <p>J'ai piloté le projet du site portail de la CoVe et la réalisation de son contenu mais aussi élaboré divers dossiers de presse</p></li>
