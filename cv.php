@@ -32,7 +32,7 @@ include ('menu.php');
         <div class="text-center2">
             <p>De niveau de formation <span class="dev"><strong>titre professionnel de niveau II Chef de Projet Multimédia - Développement</strong></span> (je suis en attente de la validation de celui-ci), je suis actuellement à la recherche d'un emploi en tant que <span class="dev"><strong>développeuse junior</span></strong> ou <span class="dev"><strong>assistante Chef de projet</span></strong>, je suis une personne qui s'implique dans son travail et
             qui est vraiment motivée.<br/>
-            De plus, je sais me rendre disponible quand cela est nécessaire et me former sur de nouvelles compétences ne m'effraie pas.</p>
+            De plus, je sais me rendre disponible et me former sur de nouvelles compétences ne m'effraie pas.</p>
         </div>
     </div>
 
