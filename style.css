@@ -47,6 +47,21 @@ html{
     margin-bottom: -50px;
 }
 
+.dev{
+    color: rgb(153,0,95);
+}
+
+a{
+    color: rgb(153,0,95);
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(153,0,95);
+    text-decoration: none;
+}
+
+
 /*cv*/
 .presentation{
     padding-top:110px;
