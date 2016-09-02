@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Aurélie BONET</title>
+    <title>Aurélie BONET - Mentions légales</title>
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -31,11 +31,11 @@ include ('menu.php');
     <div class="row">
         <div class="mentions">
             <h1 class=" mentions1 text-center">Mentions légales</h1>
-            <p class="text-center"><b>Site internet:</b> à venir</p><br>
+            <p class="text-center"><b>Site internet:</b> <a href="http://www.aureliebonet.fr">aureliebonet.fr</a> </p><br>
             <p class="text-center"><b>Editeur:</b> BONET Aurélie</p><br>
             <p class="text-center"><b>Adresse:</b> 178 Bis le Cours</p><br>
             <p CLASS="text-center">84200 SAINT DIDIER</p><br>
-            <p CLASS="text-center"><b>E-mail:</b> bonetaurelie@gmail.com</p><br>
+            <p CLASS="text-center"><b>E-mail:</b><a href="mailto:bonetaurelie@gmail.com"> bonetaurelie@gmail.com</a></p><br>
             <p CLASS="text-center"><b>Téléphone:</b> 06.19.85.21.22</p><br>
             <p class="text-center"><b>Nom de l'hébergeur:</b> OVH</p><br>
             <p class="text-center"><b>adresse de l'hébergeur:</b>  2 rue Kellermann</p><br>
