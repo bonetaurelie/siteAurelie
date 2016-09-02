@@ -38,10 +38,10 @@ include ('menu.php');
             <li class="projet"><a href="http://www.projetSaint-Didier.fr" target="_blank">Mon village Wordpress</a></li>
             <li class="projet"><a href="#" target="_blank">Gestionnaire de livres Symfony2/Bootstrap</a></li>
             <li class="projet"><a href="#" target="_blank">Mon site personnel PHP/Bootstrap/JQuery</a></li>
-            <li class="projet"><a href="http://www.sensabloc.fr" target="_blank">Site sensabloc</a></li>
-            <li class="projet"><a href="http://nalo-oc-projet6.herokuapp.com/" target="_blank">Site Nos amis les Oiseaux (projet en groupe / Poste d'intégratrice et de Chef de projet)</a></li>
-            <li class="projet"><a href="https://projet-louvre.herokuapp.com/" target="_blank">Billetterie du Louvre</a></li>
-            <li class="projet"><a href="https://github.com/bonetaurelie/projetMultilingua.git" target="_blank">Projet IONIC</a></li>
+            <li class="projet"><a href="http://www.sensabloc.fr" target="_blank">Site sensabloc Wordpress</a></li>
+            <li class="projet"><a href="http://nalo-oc-projet6.herokuapp.com/" target="_blank">Site Nos Amis les Oiseaux (projet en groupe Symfony 3 / Poste d'intégratrice et de Chef de projet)</a></li>
+            <li class="projet"><a href="https://projet-louvre.herokuapp.com/" target="_blank">Billetterie du Louvre Symfony 2</a></li>
+            <li class="projet"><a href="https://github.com/bonetaurelie/projetMultilingua.git" target="_blank">Multilingua Framework IONIC</a></li>
 
         </ul>
     </div>
@@ -56,7 +56,7 @@ include ('menu.php');
                 </div>
 
                 <div class="item">
-                    <img src="images/mon village wordpress.PNG" alt="Projet Wordpress mon village">
+                    <img src="images/accueil%20wpSaintDidier.PNG" alt="Projet Wordpress mon village">
                 </div>
 
                 <div class="item">
