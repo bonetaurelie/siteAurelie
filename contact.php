@@ -35,7 +35,7 @@ include ('menu.php');
                 178 Bis le Cours<br>
                 84210 SAINT-DIDIER<br>
                 Tel: 06.19.85.21.22<br>
-                mail: bonetaurelie@yahoo.fr
+                mail: bonetaurelie@gmail.com
             </address>
         </div>
     </div>
@@ -43,43 +43,43 @@ include ('menu.php');
     <div class="row">
         <form class="form-horizontal col-lg-offset-2 col-md-offset-2 col-sm-offset-2 col-xs-offset-2" action="send_email.php" method="post">
             <div class="form-group">
-                <label for="nom" class="col-lg-2 col-md-2 col-sm-3 col-xs-3 control-label">Votre nom :</label>
+                <label for="nom" class="col-lg-3 col-md-3 col-sm-3 col-xs-3 control-label">Votre nom :</label>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                     <input type="text" class="form-control" id="nom" name="nom" />
                 </div>
             </div>
             <div class="form-group">
-                <label for="prenom" class="col-lg-2 col-md-2 col-sm-3 col-xs-3 control-label">Votre prénom :</label>
+                <label for="prenom" class="col-lg-3 col-md-3 col-sm-3 col-xs-3 control-label">Votre prénom :</label>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                     <input type="text" class="form-control" id="prenom" name="prenom" />
                 </div>
             </div>
             <div class="form-group">
-                <label for="email" class="col-lg-2 col-md-2 col-sm-3 col-xs-3 control-label">Votre E-mail :</label>
+                <label for="email" class="col-lg-3 col-md-3 col-sm-3 col-xs-3 control-label">Votre E-mail :</label>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                     <input type="text" class="form-control" id="email" name="email" />
                 </div>
             </div>
             <div class="form-group">
-                <label for="tel" class="col-lg-2 col-md-2 col-sm-3 col-xs-3 control-label">Votre téléphone :</label>
+                <label for="tel" class="col-lg-3 col-md-3 col-sm-3 col-xs-3 control-label">Votre téléphone :</label>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                     <input type="text" class="form-control" id="tel" name="tel" />
                 </div>
             </div>
             <div class="form-group">
-                <label for="sujet" class="col-lg-2 col-md-2 col-sm-3 col-xs-3 control-label">Objet du message :</label>
+                <label for="sujet" class="col-lg-3 col-md-3 col-sm-3 col-xs-3 control-label">Objet du message :</label>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                     <input type="text" class="form-control" id="sujet" name="sujet" />
                 </div>
             </div>
             <div class="form-group">
-                <label for="message" class="col-lg-2 col-md-2 col-sm-3 col-xs-3 control-label">Message :</label>
+                <label for="message" class="col-lg-3 col-md-3 col-sm-3 col-xs-3 control-label">Message :</label>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                     <textarea id="message" class="form-control" name="message" cols="40" rows="4"></textarea>
                 </div>
             </div>
             <div class="form-group">
-                <div class="col-lg-3 col-lg-offset-3 col-md-3 col-md-offset-3 col-sm-3 col-sm-offset-3 col-xs-3 col-xs-offset-3">
+                <div class="col-lg-3 col-lg-offset-4 col-md-3 col-md-offset-4 col-sm-3 col-sm-offset-3 col-xs-3 col-xs-offset-3">
                     <input type="submit" class="form-control" name="envoyer" value="Envoyer" />
                 </div>
             </div>
