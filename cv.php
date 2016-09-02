@@ -9,8 +9,7 @@
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel="icon" type="images/png" href="images/png/favicon2.png" />
-    <link rel="shortcut icon" type="image/x-icon" href="images/x-icon/favicon2.ico/favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="images/x-icon/faviconBis.ico" />
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 
@@ -183,7 +182,7 @@ include ('menu.php');
             </div>
         </div>
         <div class="row col-lg-6 col-lg-push-2 col-md-6 col-md-push-2 col-sm-8 col-sm-push-1 col-xs-8 col-xs-push-1">
-            <a href="images/CV_developpeur_web.pdf" target="_blank">Mon cv à télécharger</a>
+            <a href="images/AurélieBonet-Cv-developpeurWeb-version2.pdf" target="_blank">Mon cv à télécharger</a>
         </div>
     </div>
 </div>
