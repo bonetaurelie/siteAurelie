@@ -227,8 +227,9 @@ a:hover{
     font-size: 1.2em;
 }
 
-.flash-notice{
-    padding-top: 10px;
+.message{
+    margin-top: 20px;
+    margin-left: 600px;
 }
 
 /*portfolio*/
@@ -332,6 +333,19 @@ footer p{
         margin-left: 140px;
         margin-top: 30px;
     }
+
+    .message{
+        margin-top: 20px;
+        margin-left: 200px;
+    }
+
+}
+
+@media all and (min-width:768px) {
+    .message{
+        margin-top: 20px;
+        margin-left: 300px;
+    }
 }
 
 /* Medium devices (desktops, 992px and up) */
@@ -349,6 +363,12 @@ footer p{
         margin-left: 90px;
         margin-top: 30px;
     }
+
+    .message{
+        margin-top: 20px;
+        margin-left: 450px;
+    }
+
 }
 
 /* lg(desktops, 1200px and up) */
@@ -366,6 +386,12 @@ footer p{
         margin-left: 160px;
         margin-top: 20px;
     }
+
+    .message{
+        margin-top: 20px;
+        margin-left: 600px;
+    }
+
 }
 
 
