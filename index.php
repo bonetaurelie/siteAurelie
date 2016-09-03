@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content=" Aurélie Bonet, développeuse, chef de projet, chef de projet multimédia, Vaucluse, Provence Alpes Côte d'Azur, PACA, développeur, concepteur, programmeur, conceptrice, programmeuse"/>
     <meta name="description" content="Aurélie Bonet, développeuse web junior dont le dommaine de compétences est assez vaste et qui est à la recherche d'un emploi."/>
+    <meta name="robots" content="noindex"/>
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Aurélie BONET, développeuse</title>
 
