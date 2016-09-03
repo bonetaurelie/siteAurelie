@@ -22,7 +22,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
-<body>
+<body  itemscope itemtype="http://schema.org/WebPage">
 
 <?php
 include ('menu.php');
@@ -31,13 +31,21 @@ include ('menu.php');
 <div class="container">
     <div class="row">
         <div class="addresse">
-            <h1>Pour me contacter, merci de remplir le formulaire: </h1>
+            <h1 itemprop="name">Pour me contacter, merci de remplir le formulaire: </h1><br/>
             <address>
-                <strong>Aurélie BONET</strong><br>
-                178 Bis le Cours<br>
-                84210 SAINT-DIDIER<br>
-                Tel: 06.19.85.21.22<br>
-                mail: bonetaurelie@gmail.com
+                <div itemscope itemtype="http://schema.org/Person">
+                    <span itemprop="name"><strong>Aurélie BONET</strong><br></span>
+                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    <span itemprop="streetAddress">
+                        178 Bis le Cours<br>
+                    </span>
+                    <span itemprop="postalCode">84210</span>
+                    <span itemprop="addressLocality">SAINT-DIDIER</span>
+                </div>
+                    <span itemprop="telephone">06.19.85.21.22</span><br/>
+                    <a href="mailto:jane-doe@xyz.edu" itemprop="email">
+                        bonetaurelie@gmail.com</a>
+                </div>
             </address>
         </div>
     </div>

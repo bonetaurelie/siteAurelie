@@ -17,7 +17,7 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li ><a href="index.php">A propos de moi<span class="sr-only"></span></a></li>
+                    <li ><a href="aProposDeMoi.php">A propos de moi<span class="sr-only"></span></a></li>
                     <li><a href="cv.php">Mon CV</a></li>
                     <li><a href="portfolio.php">Mon Portfolio</a></li>
                     <li><a href="contact.php">Me contacter</a></li>

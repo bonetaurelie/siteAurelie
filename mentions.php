@@ -22,7 +22,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
-<body>
+<body  itemscope itemtype="http://schema.org/WebPage">
 
 <?php
 include ('menu.php');
@@ -31,16 +31,16 @@ include ('menu.php');
 <div class="container">
     <div class="row">
         <div class="mentions">
-            <h1 class=" mentions1 text-center">Mentions légales</h1>
-            <p class="text-center"><b>Site internet:</b> <a href="http://www.aureliebonet.fr">aureliebonet.fr</a> </p><br>
-            <p class="text-center"><b>Editeur:</b> BONET Aurélie</p><br>
-            <p class="text-center"><b>Adresse:</b> 178 Bis le Cours</p><br>
-            <p CLASS="text-center">84200 SAINT DIDIER</p><br>
-            <p CLASS="text-center"><b>E-mail:</b><a href="mailto:bonetaurelie@gmail.com"> bonetaurelie@gmail.com</a></p><br>
-            <p CLASS="text-center"><b>Téléphone:</b> 06.19.85.21.22</p><br>
-            <p class="text-center"><b>Nom de l'hébergeur:</b> OVH</p><br>
-            <p class="text-center"><b>adresse de l'hébergeur:</b>  2 rue Kellermann</p><br>
-            <p class="text-center"> 59100 Roubaix</p><br>
+            <h1 itemprop="name" class=" mentions1 text-center">Mentions légales</h1>
+            <p itemprop="description" class="mentions2 text-center"><b>Site internet:</b> <a href="http://www.aureliebonet.fr">aureliebonet.fr</a><br>
+            <b>Editeur:</b> BONET Aurélie<br>
+            <b>Adresse:</b> 178 Bis le Cours<br>
+            84200 SAINT DIDIER<br>
+            <b>E-mail:</b><a href="mailto:bonetaurelie@gmail.com"> bonetaurelie@gmail.com</a><br>
+            <b>Téléphone:</b> 06.19.85.21.22<br>
+            <b>Nom de l'hébergeur:</b> OVH<br>
+            <b>adresse de l'hébergeur:</b>  2 rue Kellermann<br>
+             59100 Roubaix</p><br>
         </div>
     </div>
 </div>
