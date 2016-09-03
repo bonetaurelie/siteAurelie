@@ -57,7 +57,7 @@ include ('menu.php');
                 </div>
 
                 <div class="item">
-                    <img itemprop="image" itemprop="image" src="images/accueil%20wpSaintDidier.PNG" alt="Projet Wordpress mon village">
+                    <img itemprop="image" src="images/accueil%20wpSaintDidier.PNG" alt="Projet Wordpress mon village">
                 </div>
 
                 <div class="item">
