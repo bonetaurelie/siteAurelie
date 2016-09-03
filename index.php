@@ -4,9 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content=" Aurélie Bonet, développeuse, chef de projet, chef de projet multimédia, Vaucluse, Provence Alpes Côte d'Azur, PACA, développeur, concepteur, programmeur, conceptrice, programmeuse"/>
     <meta name="description" content="Aurélie Bonet, développeuse web junior dont le dommaine de compétences est assez vaste et qui est à la recherche d'un emploi."/>
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Aurélie BONET</title>
+    <title>Aurélie BONET, développeuse</title>
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -30,7 +31,7 @@ include ('menu.php');
 <div class="container">
     <div class="row">
         <div class="index text-center">
-            <img src="images/photoidentiteaureliebonet.jpg" alt="photo identité" class="img-circle">
+            <img src="images/photoidentiteaureliebonet.jpg" alt="Aurélie Bonet, développeuse" class="img-circle">
             <span class="dev"><blockquote><b>"La vie n'est pas un long un fleuve tranquille."</b></blockquote></span><br/>
             <p class="accueiltext-center">Cette phrase a un sens tout particulier pour moi car depuis mon départ de l'Armée, il a fallu que je fasse preuve de <span class="dev"><strong>motivation</strong></span> et de <span class="dev"><strong>persévérance</strong></span>  pour me reconvertir à chaque fois que le besoin s'en faisait ressentir.<br/><br/>
                 Aujourd'hui, mon but est atteint, je suis <span class="dev"><strong>développeuse web</strong></span>  et mon souhait est de <strong>m'épanouir dans ce domaine</strong>.<br/><br/>

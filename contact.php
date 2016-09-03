@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content=" Aurélie Bonet, contacter, contact, formulaire développeuse, chef de projet, chef de projet multimédia, Vaucluse, Provence Alpes Côte d'Azur, PACA, développeur, concepteur, programmeur, conceptrice, programmeuse"/>
     <meta name="description" content="VOus souhaitez me contacter, n'hésitez pas à remplir le formulaire."/>
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Aurélie BONET - Me contacter</title>
@@ -30,6 +31,7 @@ include ('menu.php');
 <div class="container">
     <div class="row">
         <div class="addresse">
+            <h1>Pour me contacter, merci de remplir le formulaire: </h1>
             <address>
                 <strong>Aurélie BONET</strong><br>
                 178 Bis le Cours<br>

@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content=" Aurélie Bonet, cv, développeuse, chef de projet, chef de projet multimédia, Vaucluse, Provence Alpes Côte d'Azur, PACA, développeur, concepteur, programmeur, conceptrice, programmeuse"/>
     <meta name="description" content="Présentation d'un cv plutôt atypique mais qui pourrait retenir votre attention..."/>
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Aurélie BONET - Mon cv </title>
@@ -30,6 +31,7 @@ include ('menu.php');
 <div class="container">
     <div class="presentation">
         <div class="text-center2">
+            <h1><u>Aurélie Bonet, développeuse / chef de projet junior</u></h1><br/>
             <p>De niveau de formation <span class="dev"><strong>titre professionnel de niveau II Chef de Projet Multimédia - Développement</strong></span> (je suis en attente de la validation de celui-ci), je suis actuellement à la recherche d'un emploi en tant que <span class="dev"><strong>développeuse junior</span></strong> ou <span class="dev"><strong>assistante Chef de projet</span></strong>, je suis une personne qui s'implique dans son travail et
             qui est vraiment motivée.<br/>
             De plus, je sais me rendre disponible et me former sur de nouvelles compétences ne m'effraie pas.</p>

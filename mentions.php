@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content=" Aurélie Bonet, mentions légales, développeuse, chef de projet, chef de projet multimédia, Vaucluse, Provence Alpes Côte d'Azur, PACA, développeur, concepteur, programmeur, conceptrice, programmeuse"/>
     <meta name="description" content="Les mentions légales vous donneront des informations complémentaires sur mon site."/>
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Aurélie BONET - Mentions légales</title>
