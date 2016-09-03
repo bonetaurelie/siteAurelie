@@ -122,6 +122,10 @@ a:hover{
     font-weight: bold;
 }
 
+.progress{
+   margin-bottom: 26px;
+}
+
 .cercle1{
     width: 120px;
     height: 120px;
