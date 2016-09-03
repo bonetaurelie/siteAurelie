@@ -65,7 +65,7 @@ include ('menu.php');
                 </div>
 
                 <div class="item">
-                    <img itemprop="image" src="images/site perso.PNG" alt="Projet Symfony2/Bootstrap/JQuery">
+                    <img itemprop="image" src="images/CapturesitePerso.PNG" alt="Projet Symfony2/Bootstrap/JQuery">
                 </div>
 
                 <div class="item">
