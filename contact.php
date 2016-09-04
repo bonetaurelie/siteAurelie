@@ -139,14 +139,14 @@ if (isset($_POST['envoyer'])) {
         || empty($message)
     ) {
         ?>
-        <div class="message">
+        <div class="message col-lg-4 col-md-4 col-sm-5 col-xs-7">
             <p><b>Tous les champs doivent être renseignés</b></p>
         </div>
 <?php
     } /* On vérifie que le format de l'e-mail est correct */
     elseif (!preg_match($regex_mail, $expediteur)) {
         ?>
-    <div class="message">
+    <div class="message col-lg-4 col-md-4 col-sm-5 col-xs-7">
         <p><b>L'adresse n'est pas valide</b></p>
     </div>
 
@@ -157,7 +157,7 @@ if (isset($_POST['envoyer'])) {
         || preg_match($regex_head, $sujet)
     ) {
     ?>
-    <div class="message">
+    <div class="message col-lg-5 col-md-5 col-sm-6 col-xs-8">
         <p><b>En-têtes interdites dans les champs du formulaire</b></p>
     </div>
 
@@ -182,7 +182,7 @@ if (isset($_POST['envoyer'])) {
         if (mail($to, $sujet, $msg, $headers)) {
             ?>
 
-        <div class="message">
+        <div class="message col-lg-4 col-md-4 col-sm-5 col-xs-7">
             <p><b>E-mail envoyé avec succès</b></p>
         </div>
 
@@ -196,8 +196,8 @@ if (isset($_POST['envoyer'])) {
         } else {
             ?>
 
-        <div class="message">
-            <p><b>Erreur d\'envoi de l\'e-mail</b></p>
+        <div class="message col-lg-4 col-md-4 col-sm-5 col-xs-7">
+            <p><b>Erreur d'envoi de l'e-mail</b></p>
         </div>
 <?php
         }
