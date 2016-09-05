@@ -21,7 +21,7 @@ include ('menu.php');
             <li class="projet"><a itemprop="url" href="images/Site-village/index.html" target="_blank">Mon village Bootstrap</a></li>
             <li class="projet"><a itemprop="url" href="http://www.projetSaint-Didier.fr" target="_blank">Mon village Wordpress</a></li>
             <li class="projet"><a itemprop="url" href="https://gestionnaire.herokuapp.com/" target="_blank">Gestionnaire de livres Symfony2/Bootstrap</a></li>
-            <li class="projet"><a itemprop="url" href="http://www.aureliebonet.fr/aProposdeMoi.php" target="_blank">Mon site personnel PHP/Bootstrap/JQuery</a></li>
+            <li class="projet"><a itemprop="url" href="http://www.aureliebonet.fr/aProposDeMoi.php" target="_blank">Mon site personnel PHP/Bootstrap/JQuery</a></li>
             <li class="projet"><a itemprop="url" href="http://www.sensabloc.fr" target="_blank">Site sensabloc Wordpress</a></li>
             <li class="projet"><a itemprop="url" href="http://nalo-oc-projet6.herokuapp.com/" target="_blank">Site Nos Amis les Oiseaux (projet en groupe Symfony 3 / Poste d'intégratrice et de Chef de projet)</a></li>
             <li class="projet"><a itemprop="url" href="https://projet-louvre.herokuapp.com/" target="_blank">Billetterie du Louvre Symfony 2</a></li>
