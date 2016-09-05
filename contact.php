@@ -26,8 +26,8 @@ include ('menu.php');
                     <span itemprop="addressLocality">SAINT-DIDIER</span>
                 </div>
                     <span itemprop="telephone">06.19.85.21.22</span><br/>
-                    <a href="mailto:jane-doe@xyz.edu" itemprop="email">
-                        bonetaurelie@gmail.com</a>
+                    <a href="mailto:contact@bonetaurelie.fr" itemprop="email">
+                        contact@bonetaurelie.fr</a>
                 </div>
             </address>
         </div>
@@ -148,7 +148,7 @@ if (isset($_POST['envoyer'])) {
     } /* Si aucun problème et aucun cookie créé, on construit le message et on envoie l'e-mail */
     elseif (!isset($_COOKIE['sent'])) {
         /* Destinataire (votre adresse e-mail) */
-        $to = 'bonetaurelie@gmail.com';
+        $to = 'contact@aureliebonet.fr';
 
         /* Construction du message */
         $msg = 'Bonjour,' . "\r\n\r\n";
