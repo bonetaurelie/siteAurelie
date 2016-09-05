@@ -26,8 +26,8 @@ include ('menu.php');
                     <span itemprop="addressLocality">SAINT-DIDIER</span>
                 </div>
                     <span itemprop="telephone">06.19.85.21.22</span><br/>
-                    <a href="mailto:contact@bonetaurelie.fr" itemprop="email">
-                        contact@bonetaurelie.fr</a>
+                    <a href="mailto:contact@aureliebonet.fr" itemprop="email">
+                        contact@aureliebonet.fr</a>
                 </div>
             </address>
         </div>
