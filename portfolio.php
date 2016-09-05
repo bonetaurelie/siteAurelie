@@ -18,7 +18,7 @@ include ('menu.php');
         </div>
 
         <ul>
-            <li class="projet"><a itemprop="url" href="images/Site village/index.html" target="_blank">Mon village Bootstrap</a></li>
+            <li class="projet"><a itemprop="url" href="images/Site-village/index.html" target="_blank">Mon village Bootstrap</a></li>
             <li class="projet"><a itemprop="url" href="http://www.projetSaint-Didier.fr" target="_blank">Mon village Wordpress</a></li>
             <li class="projet"><a itemprop="url" href="https://gestionnaire.herokuapp.com/" target="_blank">Gestionnaire de livres Symfony2/Bootstrap</a></li>
             <li class="projet"><a itemprop="url" href="http://www.aurelibonet.fr" target="_blank">Mon site personnel PHP/Bootstrap/JQuery</a></li>
