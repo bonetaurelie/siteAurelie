@@ -18,7 +18,7 @@
 
 				<!-- Nav -->
 				<nav id="nav">
-					<a href="aProposDeMoi.php" class="icon fa-home active">Home</a>
+					<a href="aProposDeMoi.php" class="icon fa-home active"></a>
 					<a href="cv.php" class="icon fa-file-o"></a>
 					<a href="portfolio.php" class="icon fa-folder"></a>
 					<a href="contact.php" class="icon fa-envelope"></a>
