@@ -11,7 +11,7 @@
     ?>
 </head>
 
-<body>
+<body itemscope itemtype="http://schema.org/WebPage">
 
 <!-- Wrapper-->
 <div id="wrapper">

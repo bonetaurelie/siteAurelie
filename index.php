@@ -11,7 +11,7 @@
 	?>
 </head>
 
-	<body>
+	<body itemscope itemtype="http://schema.org/WebPage">
 
 		<!-- Wrapper-->
 			<div id="wrapper">
@@ -37,9 +37,9 @@
 								<h1 itemprop="name">Aurélie Bonet</h1>
 								<p itemprop="description">Développeuse - Chef de projet junior<br/>
 							</header>
-							<a href="cv.php" class="jumplink pic">
+							<a itemprop="url" href="cv.php" class="jumplink pic">
 								<span class="arrow icon fa-chevron-right"><span>Voir mon CV</span></span>
-								<img src="images/photoidentiteaureliebonet.jpg" alt="Aurélie Bonet" />
+								<img itemprop="image" src="images/photoidentiteaureliebonet.jpg" alt="Aurélie Bonet" />
 							</a>
 						</article>
 					</div>

@@ -11,7 +11,7 @@
     ?>
 </head>
 
-<body>
+<body itemscope itemtype="http://schema.org/CreativeWork">
 
 <!-- Wrapper-->
 <div id="wrapper">
@@ -39,41 +39,41 @@
             <p>
                 Voici une présentation des projets réalisés:
             <ul>
-                <li>Projet mon village avec Bootstrap</li>
-                <li>Projet mon village en wordpress</li>
-                <li>Projet gestionnaire de livre prise en main de Symfony2</li>
-                <li>Site personnel</li>
-                <li>Site Sensabloc wordpress</li>
-                <li>Projet Nos amis les oiseaux en Symfony3 : projet en groupe, poste d'intégratrice et chef de projet</li>
-                <li>Projet Billetterie du Louvre en Symfony2</li>
-                <li>Projet Multilingua avec le Framework IONIC</li>
+                <li itemprop="description">Projet mon village avec Bootstrap</li>
+                <li itemprop="description">Projet mon village en wordpress</li>
+                <li itemprop="description">Projet gestionnaire de livre prise en main de Symfony2</li>
+                <li itemprop="description">Site personnel</li>
+                <li itemprop="description">Site Sensabloc wordpress</li>
+                <li itemprop="description">Projet Nos amis les oiseaux en Symfony3 : projet en groupe, poste d'intégratrice et chef de projet</li>
+                <li itemprop="description">Projet Billetterie du Louvre en Symfony2</li>
+                <li itemprop="description">Projet Multilingua avec le Framework IONIC</li>
             </ul>
             </p>
             <section>
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a href="images/Site-village/index.html" class="image fit"><img src="images/mon village bootstrap.PNG" alt="Projet Bootstrap mon village"></a>
+                        <a itemprop="url" href="images/Site-village/index.html" class="image fit"><img src="images/mon village bootstrap.PNG" alt="Projet Bootstrap mon village"></a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a href="http://www.projetSaint-Didier.fr" class="image fit"><img src="images/accueil%20wpSaintDidier.PNG" alt="Projet Wordpress mon village"></a>
+                        <a itemprop="url" href="http://www.projetSaint-Didier.fr" class="image fit"><img src="images/accueil%20wpSaintDidier.PNG" alt="Projet Wordpress mon village"></a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a href="https://gestionnaire.herokuapp.com/" class="image fit"><img src="images/gestionnaire.PNG" alt="Projet Symfony2/Bootstrap"></a>
+                        <a itemprop="url" href="https://gestionnaire.herokuapp.com/" class="image fit"><img src="images/gestionnaire.PNG" alt="Projet Symfony2/Bootstrap"></a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a href="http://www.aureliebonet.fr/aProposDeMoi.php" class="image fit"><img src="images/accueilSitePerso.PNG" alt="Projet Symfony2/Bootstrap/JQuery"></a>
+                        <a itemprop="url" href="http://www.aureliebonet.fr/aProposDeMoi.php" class="image fit"><img src="images/accueilSitePerso.PNG" alt="Projet Symfony2/Bootstrap/JQuery"></a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a href="http://www.sensabloc.fr" class="image fit"><img src="images/sensabloc.PNG" alt="Projet Sensabloc"></a>
+                        <a itemprop="url" href="http://www.sensabloc.fr" class="image fit"><img src="images/sensabloc.PNG" alt="Projet Sensabloc"></a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a href="http://nalo-oc-projet6.herokuapp.com/" class="image fit"><img src="images/accueilNAO.PNG" alt="Projet Nos Amis les Oiseaux"></a>
+                        <a itemprop="url" href="http://nalo-oc-projet6.herokuapp.com/" class="image fit"><img src="images/accueilNAO.PNG" alt="Projet Nos Amis les Oiseaux"></a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a href="https://projet-louvre.herokuapp.com/" class="image fit"><img src="images/accueilLouvre.PNG" alt="Projet Billetterie du Louvre"></a>
+                        <a itemprop="url" href="https://projet-louvre.herokuapp.com/" class="image fit"><img src="images/accueilLouvre.PNG" alt="Projet Billetterie du Louvre"></a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a href="https://github.com/bonetaurelie/projetMultilingua.git" class="image fit">Projet Multilingua Framework IONIC</a>
+                        <a itemprop="url" href="https://github.com/bonetaurelie/projetMultilingua.git" class="image fit">Projet Multilingua Framework IONIC</a>
                     </div>
                 </div>
             </section>
