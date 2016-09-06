@@ -61,7 +61,7 @@
                         <a href="https://gestionnaire.herokuapp.com/" class="image fit"><img src="images/gestionnaire.PNG" alt="Projet Symfony2/Bootstrap"></a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a href="http://www.aureliebonet.fr/aProposDeMoi.php" class="image fit"><img src="images/CapturesitePerso.PNG" alt="Projet Symfony2/Bootstrap/JQuery"></a>
+                        <a href="http://www.aureliebonet.fr/aProposDeMoi.php" class="image fit"><img src="images/accueilSitePerso.PNG" alt="Projet Symfony2/Bootstrap/JQuery"></a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                         <a href="http://www.sensabloc.fr" class="image fit"><img src="images/sensabloc.PNG" alt="Projet Sensabloc"></a>
