@@ -37,7 +37,7 @@
                 <h2 itemprop="name">Pour me contacter, merci de remplir le formulaire: </h2><br/>
             </header>
 
-            <div class="row">
+            <div class="row text-center col-lg-6 col-lg-push-4 col-md-6 col-md-push-4 col-sm-6 col-sm-push-4 col-xs-6 col-xs-push-3 ">
                 <address>
                     <div itemscope itemtype="http://schema.org/Person">
                         <span itemprop="name"><strong>Aurélie BONET</strong><br></span>

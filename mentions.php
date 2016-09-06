@@ -35,7 +35,7 @@
             <header>
                 <h2 itemprop="name" class="text-center">Mentions légales</h2>
             </header>
-            <p itemprop="description"><b>Site internet:</b> <a href="http://www.aureliebonet.fr">aureliebonet.fr</a><br>
+            <p class="text-center" itemprop="description"><b>Site internet:</b> <a href="http://www.aureliebonet.fr">aureliebonet.fr</a><br>
                 <b>Editeur:</b> BONET Aurélie<br>
                 <b>Adresse:</b> 178 Bis le Cours<br>
                 84200 SAINT DIDIER<br>
