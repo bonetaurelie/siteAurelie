@@ -18,14 +18,14 @@
 
     <!-- Nav -->
     <nav id="nav">
-        <a href="index.php" class="icon fa-home"><span>Home</span></a>
-        <a href="cv.php" class="icon fa-file-o active"><span>CV</span></a>
-        <a href="portfolio.php" class="icon fa-folder"><span>Portfolio</span></a>
-        <a href="contact.php" class="icon fa-envelope"><span>Contact</span></a>
-        <a href="https://fr.linkedin.com/in/aurelie-bonet-268aa7b4" target="_blank" class="icon fa-linkedin"><span>Linded In</span></a>
-        <a href="https://github.com/bonetaurelie" target="_blank" class="icon fa fa-github"><span>Github</span></a>
-        <a href= skype:aurelie.bonet?add" target="_blank"><i class="fa fa-skype"></i><span>Skype</span></a>
-        <a href="#mentions" target="_blank" class="icon fa-file-text-o"><span>Mentions</span></a>
+        <a href="index.php" class="icon fa-home"></a>
+        <a href="cv.php" class="icon fa-file-o active"></a>
+        <a href="portfolio.php" class="icon fa-folder"></a>
+        <a href="contact.php" class="icon fa-envelope"></a>
+        <a href="https://fr.linkedin.com/in/aurelie-bonet-268aa7b4" target="_blank" class="icon fa-linkedin"></a>
+        <a href="https://github.com/bonetaurelie" target="_blank" class="icon fa fa-github"></a>
+        <a href= skype:aurelie.bonet?add" target="_blank"><i class="fa fa-skype"></i></a>
+        <a href="#mentions" target="_blank" class="icon fa-file-text-o"></a>
     </nav>
 
     <!-- Main -->
