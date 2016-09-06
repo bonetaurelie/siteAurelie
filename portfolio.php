@@ -36,8 +36,7 @@
             <header>
                 <h2 itemprop="name" class="text-center">Mes réalisations:</h2>
             </header>
-            <p>
-                Voici une présentation des projets réalisés:
+            <p>Voici une présentation des projets réalisés:</p>
             <ul>
                 <li itemprop="description">Projet mon village avec Bootstrap</li>
                 <li itemprop="description">Projet mon village en wordpress</li>
@@ -48,7 +47,6 @@
                 <li itemprop="description">Projet Billetterie du Louvre en Symfony2</li>
                 <li itemprop="description">Projet Multilingua avec le Framework IONIC</li>
             </ul>
-            </p>
             <section>
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -78,13 +76,14 @@
                 </div>
             </section>
         </article>
+    </div>
 
 
         <!-- footer -->
         <?php
         include ('footer.php');
         ?>
-    </div>
+</div>
 
     <!-- Scripts -->
     <script src="assets/js/jquery.min.js"></script>
