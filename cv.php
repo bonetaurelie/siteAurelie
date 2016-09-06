@@ -25,7 +25,7 @@
         <a href="https://fr.linkedin.com/in/aurelie-bonet-268aa7b4" target="_blank" class="icon fa-linkedin"></a>
         <a href="https://github.com/bonetaurelie" target="_blank" class="icon fa fa-github"></a>
         <a href= skype:aurelie.bonet?add" target="_blank"><i class="fa fa-skype"></i></a>
-        <a href="#mentions" target="_blank" class="icon fa-file-text-o"></a>
+        <a href="mentions.php" target="_blank" class="icon fa-file-text-o"></a>
     </nav>
 
     <!-- Main -->
