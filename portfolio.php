@@ -1,102 +1,98 @@
-<!DOCTYPE html>
-<html lang="fr">
+<!DOCTYPE HTML>
+<!--
+	Astral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+    <?php
+    include ('header.php');
+    ?>
+</head>
 
-<?php
-include ('header.php');
-?>
+<body>
 
-<body itemscope itemtype="http://schema.org/CreativeWork">
+<!-- Wrapper-->
+<div id="wrapper">
 
-<?php
-include ('menu.php');
-?>
+    <!-- Nav -->
+    <nav id="nav">
+        <a href="aProposDeMoi.php" class="icon fa-home"><span>Home</span></a>
+        <a href="cv.php" class="icon fa-file-o"><span>CV</span></a>
+        <a href="portfolio.php" class="icon fa-folder active"><span>Portfolio</span></a>
+        <a href="contact.php" class="icon fa-envelope"><span>Contact</span></a>
+        <a href="https://fr.linkedin.com/in/aurelie-bonet-268aa7b4" target="_blank" class="icon fa-linkedin"><span>Linded In</span></a>
+        <a href="https://github.com/bonetaurelie" target="_blank" class="icon fa fa-github"><span>Github</span></a>
+        <a href= skype:aurelie.bonet?add" target="_blank"><i class="fa fa-skype"></i><span>Skype</span></a>
+        <a href="mentions.php" target="_blank" class="icon fa-file-text-o"><span>Mentions</span></a>
+    </nav>
 
-<div class="container">
-    <div class="row">
-        <div class="titre">
-            <h1 itemprop="name" class="text-center">Mes réalisations:</h1>
-        </div>
+    <!-- Main -->
+    <div id="main">
 
-        <ul>
-            <li class="projet"><a itemprop="url" href="images/Site-village/index.html" target="_blank">Mon village Bootstrap</a></li>
-            <li class="projet"><a itemprop="url" href="http://www.projetSaint-Didier.fr" target="_blank">Mon village Wordpress</a></li>
-            <li class="projet"><a itemprop="url" href="https://gestionnaire.herokuapp.com/" target="_blank">Gestionnaire de livres Symfony2/Bootstrap</a></li>
-            <li class="projet"><a itemprop="url" href="http://www.aureliebonet.fr/aProposDeMoi.php" target="_blank">Mon site personnel PHP/Bootstrap/JQuery</a></li>
-            <li class="projet"><a itemprop="url" href="http://www.sensabloc.fr" target="_blank">Site sensabloc Wordpress</a></li>
-            <li class="projet"><a itemprop="url" href="http://nalo-oc-projet6.herokuapp.com/" target="_blank">Site Nos Amis les Oiseaux (projet en groupe Symfony 3 / Poste d'intégratrice et de Chef de projet)</a></li>
-            <li class="projet"><a itemprop="url" href="https://projet-louvre.herokuapp.com/" target="_blank">Billetterie du Louvre Symfony 2</a></li>
-            <li class="projet"><a itemprop="url" href="https://github.com/bonetaurelie/projetMultilingua.git" target="_blank">Multilingua Framework IONIC</a></li>
+        <!-- Work -->
+        <article id="work" class="panel">
+            <header>
+                <h2 itemprop="name" class="text-center">Mes réalisations:</h2>
+            </header>
+            <p>
+                Voici une présentation des projets réalisés:
+            <ul>
+                <li>Projet mon village avec Bootstrap</li>
+                <li>Projet mon village en wordpress</li>
+                <li>Projet gestionnaire de livre prise en main de Symfony2</li>
+                <li>Site personnel</li>
+                <li>Site Sensabloc wordpress</li>
+                <li>Projet Nos amis les oiseaux en Symfony3 : projet en groupe, poste d'intégratrice et chef de projet</li>
+                <li>Projet Billetterie du Louvre en Symfony2</li>
+                <li>Projet Multilingua avec le Framework IONIC</li>
+            </ul>
+            </p>
+            <section>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <a href="images/Site-village/index.html" class="image fit"><img src="images/mon village bootstrap.PNG" alt="Projet Bootstrap mon village"></a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <a href="http://www.projetSaint-Didier.fr" class="image fit"><img src="images/accueil%20wpSaintDidier.PNG" alt="Projet Wordpress mon village"></a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <a href="https://gestionnaire.herokuapp.com/" class="image fit"><img src="images/gestionnaire.PNG" alt="Projet Symfony2/Bootstrap"></a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <a href="http://www.aureliebonet.fr/aProposDeMoi.php" class="image fit"><img src="images/CapturesitePerso.PNG" alt="Projet Symfony2/Bootstrap/JQuery"></a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <a href="http://www.sensabloc.fr" class="image fit"><img src="images/sensabloc.PNG" alt="Projet Sensabloc"></a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <a href="http://nalo-oc-projet6.herokuapp.com/" class="image fit"><img src="images/accueilNAO.PNG" alt="Projet Nos Amis les Oiseaux"></a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <a href="https://projet-louvre.herokuapp.com/" class="image fit"><img src="images/accueilLouvre.PNG" alt="Projet Billetterie du Louvre"></a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <a href="https://github.com/bonetaurelie/projetMultilingua.git" class="image fit">Projet Multilingua Framework IONIC</a>
+                    </div>
+                </div>
+            </section>
+        </article>
 
-        </ul>
+
+        <!-- footer -->
+        <?php
+        include ('footer.php');
+        ?>
     </div>
 
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/skel-viewport.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="assets/js/main.js"></script>
 
-    <div class="row">
-        <div id="portofolio" class="carousel slide" data-ride="carousel" class="center">
-            <!-- Wrapper for slides -->
-            <div class="carousel-inner" role="listbox">
-                <div class="item active">
-                    <img itemprop="image" src="images/mon village bootstrap.PNG" alt="Projet Bootstrap mon village">
-                </div>
-
-                <div class="item">
-                    <img itemprop="image" src="images/accueil%20wpSaintDidier.PNG" alt="Projet Wordpress mon village">
-                </div>
-
-                <div class="item">
-                    <img itemprop="image" src="images/gestionnaire.PNG" alt="Projet Symfony2/Bootstrap">
-                </div>
-
-                <div class="item">
-                    <img itemprop="image" src="images/CapturesitePerso.PNG" alt="Projet Symfony2/Bootstrap/JQuery">
-                </div>
-
-                <div class="item">
-                    <img itemprop="image" src="images/sensabloc.PNG" alt="Projet Sensabloc">
-                </div>
-
-                <div class="item">
-                    <img itemprop="image" src="images/accueilNAO.PNG" alt="Projet Nos Amis les Oiseaux">
-                </div>
-
-                <div class="item">
-                    <img itemprop="image" src="images/accueilLouvre.PNG" alt="Projet Billetterie du Louvre">
-                </div>
-            </div>
-            <!-- Controls -->
-            <a class="left carousel-control" href="#portofolio" role="button" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="right carousel-control" href="#portofolio" role="button" data-slide="next">
-                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-                <li data-target="#portofolio" data-slide-to="0" class="active"></li>
-                <li data-target="#portofolio" data-slide-to="1"></li>
-                <li data-target="#portofolio" data-slide-to="2"></li>
-                <li data-target="#portofolio" data-slide-to="3"></li>
-                <li data-target="#portofolio" data-slide-to="4"></li>
-                <li data-target="#portofolio" data-slide-to="5"></li>
-                <li data-target="#portofolio" data-slide-to="6"></li>
-                <li data-target="#portofolio" data-slide-to="7"></li>
-            </ol>
-        </div>
-    </div>
-</div>
-
-
-<?php
-include ('footer.php');
-?>
-
-
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="script.js"></script>
-<script src="js/bootstrap.min.js"></script>
 </body>
 </html>

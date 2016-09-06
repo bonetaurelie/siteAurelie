@@ -1,39 +1,64 @@
-<!DOCTYPE html>
-<html lang="fr">
+<!DOCTYPE HTML>
+<!--
+	Astral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+    <?php
+    include ('header.php');
+    ?>
+</head>
 
-<?php
-include ('header.php');
-?>
+<body>
 
-<body  itemscope itemtype="http://schema.org/WebPage">
+<!-- Wrapper-->
+<div id="wrapper">
 
+    <!-- Nav -->
+    <nav id="nav">
+        <a href="aProposDeMoi.php" class="icon fa-home active"><span>Home</span></a>
+        <a href="cv.php" class="icon fa-file-o"><span>CV</span></a>
+        <a href="portfolio.php" class="icon fa-folder"><span>Portfolio</span></a>
+        <a href="contact.php" class="icon fa-envelope"><span>Contact</span></a>
+        <a href="https://fr.linkedin.com/in/aurelie-bonet-268aa7b4" target="_blank" class="icon fa-linkedin"><span>Linded In</span></a>
+        <a href="https://github.com/bonetaurelie" target="_blank" class="icon fa fa-github"><span>Github</span></a>
+        <a href= skype:aurelie.bonet?add" target="_blank"><i class="fa fa-skype"></i><span>Skype</span></a>
+        <a href="mentions.php" target="_blank" class="icon fa-file-text-o"><span>Mentions</span></a>
+    </nav>
 
-<?php
-include ('menu.php');
-?>
-<div class="container">
-    <div class="row">
-        <div class="index text-center">
-            <h1 itemprop="name">Aurélie Bonet, Développeuse - Chef de projet junior</h1>
-            <img itemprop="image" src="images/photoidentiteaureliebonet.jpg" alt="Aurélie Bonet, développeuse" class="img-circle">
-            <span itemprop="description" class="dev"><blockquote><b>"La vie n'est pas un long un fleuve tranquille."</b></blockquote></span><br/>
-            <p itemprop="description" class="accueiltext-center">Cette phrase a un sens tout particulier pour moi car depuis mon départ de l'Armée, il a fallu que je fasse preuve de <span class="dev"><strong>motivation</strong></span> et de <span class="dev"><strong>persévérance</strong></span>  pour me reconvertir à chaque fois que le besoin s'en faisait ressentir.<br/><br/>
-                Aujourd'hui, mon but est atteint, je suis <span class="dev"><strong>développeuse web</strong></span>  et mon souhait est de <strong>m'épanouir dans ce domaine</strong>.<br/><br/>
-                Mon domaine de compétences s'étend du <span class="dev"><strong>HTML5/CSS3</strong></span> au <span class="dev"><strong>PHP</strong></span>, <span class="dev"><strong>Symfony 2 et 3</strong></span>, <span class="dev"><strong>IONIC</strong></span>, à <span class="dev"><strong>la gestion de projet</strong></span> et à bien d'autres domaines que vous découvrirez si vous consultez <a href="cv.php">mon cv</a>.<br/><br/>
-                Mon profil vous intéresse <a href="contact.php">contactez-moi</a> et poursuivez la visite ...</p>
-        </div>
+    <!-- Main -->
+    <div id="main">
+
+        <!-- Me -->
+        <article id="me" class="panel">
+            <header>
+                <h1 itemprop="name">Aurélie Bonet</h1>
+                <p itemprop="description">Développeuse - Chef de projet junior<br/>
+            </header>
+            <a href="cv.php" class="jumplink pic">
+                <span class="arrow icon fa-chevron-right"><span>Voir mon CV</span></span>
+                <img src="images/photoidentiteaureliebonet.jpg" alt="Aurélie Bonet" />
+            </a>
+        </article>
+
     </div>
+
+    <!-- footer -->
+    <?php
+    include ('footer.php');
+    ?>
+    
 </div>
 
-<?php
-include ('footer.php');
-?>
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/skel.min.js"></script>
+<script src="assets/js/skel-viewport.min.js"></script>
+<script src="assets/js/util.js"></script>
+<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="assets/js/main.js"></script>
 
-
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="script.js"></script>
-<script src="js/bootstrap.min.js"></script>
 </body>
 </html>
