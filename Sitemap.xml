@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>http://aureliebonet.fr/aProposDeMoi.php</loc>
+        <priority>1</priority>
+        <changefreq>monthly</changefreq>
+        <image:image>
+            <image:loc>http://aureliebonet.fr/aProposDeMoi.php/photoidentiteaureliebonet.jpg</image:loc>
+            <image:title>Aurélie Bonet, développeuse</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>http://aureliebonet.fr/cv.php</loc>
+        <priority>1</priority>
+        <changefreq>monthly</changefreq>
+        <image:image>
+            <image:loc>http://aureliebonet.fr/images/AurélieBonet-Cv-developpeurWeb-version2.pdf</image:loc>
+            <image:title>cv</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>http://aureliebonet.fr/portfolio.php</loc>
+        <priority>1</priority>
+        <changefreq>monthly</changefreq>
+        <image:image>
+            <image:loc>http://aureliebonet.fr/images/Site-village/index.html</image:loc>
+            <image:title>Accueil projet mon village Bootstrap</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://aureliebonet.fr/images/Site-village/plus_infos.html</image:loc>
+            <image:title>Plus d'infos projet mon village Bootstrap</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://aureliebonet.fr/images/Site-village/act_mois.html</image:loc>
+            <image:title>Activités du mois projet mon village Bootstrap</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://aureliebonet.fr/images/Site-village/contact.html</image:loc>
+            <image:title>Contact projet mon village Bootstrap</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://aureliebonet.fr/images/Site-village/espace_membre.html?</image:loc>
+            <image:title>Espace membre projet mon village Bootstrap</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://aureliebonet.fr/images/mon village bootstrap.PNG</image:loc>
+            <image:title>Image présentant la réalisation du projet</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://aureliebonet.fr/images/accueil wpSaintDidier.PNG</image:loc>
+            <image:title>Image présentant la réalisation du projet</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://aureliebonet.fr/images/gestionnaire.PNG</image:loc>
+            <image:title>Image présentant la réalisation du projet</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://aureliebonet.fr/images/accueilSitePerso.PNG</image:loc>
+            <image:title>Image présentant la réalisation du projet</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://aureliebonet.fr/images/sensabloc.PNG</image:loc>
+            <image:title>Image présentant la réalisation du projet</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://aureliebonet.fr/images/accueilNAO.PNG</image:loc>
+            <image:title>Image présentant la réalisation du projet</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://aureliebonet.fr/images/accueilLouvre.PNG</image:loc>
+            <image:title>Image présentant la réalisation du projet</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>http://aureliebonet.fr/contact.php</loc>
+        <priority>1</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://aureliebonet.fr/mentions.php</loc>
+        <priority>0.8</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+</urlset>
