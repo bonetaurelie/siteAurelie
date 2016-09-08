@@ -35,7 +35,7 @@
 						<article id="me" class="panel">
 							<header>
 								<h1 itemprop="name">Aurélie Bonet</h1>
-								<p itemprop="description">Développeuse - Chef de projet junior<br/>
+								<p itemprop="description">Développeuse - Chef de projet multimedia</p>
 							</header>
 							<a itemprop="url" href="cv.php" class="jumplink pic">
 								<span class="arrow icon fa-chevron-right"><span>Voir mon CV</span></span>

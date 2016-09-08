@@ -35,7 +35,7 @@
         <article id="cv" class="panel">
             <header>
                 <h1 itemprop="name">Aurélie Bonet</h1>
-                <p itemprop="description">Développeuse - Chef de projet junior<br/>
+                <p itemprop="description">Développeuse - Chef de projet multimedia junior<br/>
             </header>
             <section>
                 <div class="row">
