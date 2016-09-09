@@ -22,10 +22,6 @@
         <a href="cv.php" class="icon fa-file-o"></a>
         <a href="portfolio.php" class="icon fa-folder"></a>
         <a href="contact.php" class="icon fa-envelope active"></a>
-        <a href="https://fr.linkedin.com/in/aurelie-bonet-268aa7b4" target="_blank" class="icon fa-linkedin"></a>
-        <a href="https://github.com/bonetaurelie" target="_blank" class="icon fa fa-github"></a>
-        <a href= skype:aurelie.bonet?add" target="_blank"><i class="fa fa-skype"></i></a>
-        <a href="mentions.php" target="_blank" class="icon fa-file-text-o"></a>
     </nav>
 
     <!-- Main -->

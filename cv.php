@@ -22,10 +22,6 @@
         <a href="cv.php" class="icon fa-file-o active"></a>
         <a href="portfolio.php" class="icon fa-folder"></a>
         <a href="contact.php" class="icon fa-envelope"></a>
-        <a href="https://fr.linkedin.com/in/aurelie-bonet-268aa7b4" target="_blank" class="icon fa-linkedin"></a>
-        <a href="https://github.com/bonetaurelie" target="_blank" class="icon fa fa-github"></a>
-        <a href= skype:aurelie.bonet?add" target="_blank"><i class="fa fa-skype"></i></a>
-        <a href="mentions.php" target="_blank" class="icon fa-file-text-o"></a>
     </nav>
 
     <!-- Main -->
@@ -35,14 +31,14 @@
         <article id="cv" class="panel">
             <header>
                 <h1 itemprop="name">Aurélie Bonet</h1>
-                <p itemprop="description">Développeuse - Chef de projet multimedia junior<br/>
+                <p itemprop="description">Développeuse - Chef de projet multimedia <br/>
             </header>
             <section>
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-10 col-xs-10">
                         <h2 class="icon fa-male" itemprop="name"> Expériences</h2><br/>
                         <ul>
-                            <li><p itemprop="description"><b>Décembre 2015-août 2016 :</b> Réalisation de plusieurs projets en vue de valider le titre professionnel de Chef de projet Multimédia-Développement.</p></li>
+                            <li><p itemprop="description"><b>Décembre 2015-août 2016 :</b> Réalisation de plusieurs projets en vue de valider le titre professionnel de Chef de projet Multimédia-Développement: <a href="portfolio.php">Projet Mon village Bootstrap, Projet Mon village wordpress, Projet, Projet Sensabloc wordpress, Projet Nos amis les oiseau Symfony3, Projet Billetterie du Louvre Symfony2, Projet Multilingua IONIC</a></p></li>
                             <li><p itemprop="description"><b>Octobre 2012-mars 2014 :</b> Poste de vendeuse et de pâtissière à La Pétrie de Kilian à Pernes les Fontaines.</p></li>
                             <li><p itemprop="description"><b>Septembre 2010-Septembre 2011 :</b> Assistante Marketing et commerciale sédentaire à Jeux de Lumière, Avignon en alternance.</p>
                                 <p itemprop="description">Durant mon contrat, j'ai réfléchi sur la stratégie pour le développement de l'activité de la société, prospecté de la clientèle, suivi et relancé des dossiers mais aussi effectué du conseil et de la vente.</p></li>
@@ -60,14 +56,17 @@
                         <h4 itemprop="name">Wordpress</h4>
                         <h4 itemprop="name">Adobe Photoshop</h4>
                         <h4 itemprop="name">Anglais</h4>
-                        <h4 itemprop="name">Gestion de projet</h4>
+                        <h4 itemprop="name">Rédaction de cahier des charges</h4>
+                        <h4 itemprop="name">Planification de projet</h4>
+                        <h4 itemprop="name">Budgétisation</h4>
+                        <h4 itemprop="name">Management et pilotage de projet</h4>
                         <h4 itemprop="name">IONIC</h4>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-10 col-xs-10">
                         <h2 class="icon fa-graduation-cap" itemprop="name"> Education</h2><br/>
                         <ul>
-                            <li><p itemprop="description"><b>2015 - 2016 :</b> Niveau titre professionnel de niveau II Chef de projet Multimédia - Développement à Openclassrooms (en attente de validation).<br/>
-                                    <b><i><u>Enseignements suivis:</u></i></b> HTML5/CSS3, PHP, Symfony3, JS/Jquery, Git, Wordpress, IONIC, Gestion de projet</p></li>
+                            <li><p itemprop="description"><b>2015 - 2016 :</b> Titre professionnel de niveau II Chef de projet Multimédia - Développement à OpenClassrooms (Validé en attente du diplôme).<br/>
+                                    <b><i><u>Enseignements suivis:</u></i></b> HTML5/CSS3, PHP, Symfony3, JS/Jquery, Git, Wordpress, IONIC, Rédaction de cahier des charges, Planification de projet, Budgétisation, Management et pilotage de projet</p></li>
                             <li><p itemprop="description"><b>2010 - 2011 :</b> DEES Marketing préparé en alternance à Eurexia Avignon.<br/>
                                     <b><i><u>Enseignements suivis:</u></i></b> Europe, Anglais, Marketing</p></li>
                             <li><p itemprop="description"><b>2008 - 2010 :</b> BTS Communication des entreprises au CNED.<br/>

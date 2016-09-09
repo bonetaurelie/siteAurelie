@@ -22,10 +22,6 @@
         <a href="cv.php" class="icon fa-file-o"></a>
         <a href="portfolio.php" class="icon fa-folder active"></a>
         <a href="contact.php" class="icon fa-envelope"></a>
-        <a href="https://fr.linkedin.com/in/aurelie-bonet-268aa7b4" target="_blank" class="icon fa-linkedin"></a>
-        <a href="https://github.com/bonetaurelie" target="_blank" class="icon fa fa-github"></a>
-        <a href= skype:aurelie.bonet?add" target="_blank"><i class="fa fa-skype"></i></a>
-        <a href="mentions.php" target="_blank" class="icon fa-file-text-o"></a>
     </nav>
 
     <!-- Main -->
@@ -40,7 +36,7 @@
             <ul>
                 <li itemprop="description">Projet mon village avec Bootstrap</li>
                 <li itemprop="description">Projet mon village en wordpress</li>
-                <li itemprop="description">Projet gestionnaire de livre prise en main de Symfony2</li>
+                <li itemprop="description">Projet gestionnaire de livres prise en main de Symfony2</li>
                 <li itemprop="description">Site personnel</li>
                 <li itemprop="description">Site Sensabloc wordpress</li>
                 <li itemprop="description">Projet Nos amis les oiseaux en Symfony3 : projet en groupe, poste d'intégratrice et chef de projet</li>
