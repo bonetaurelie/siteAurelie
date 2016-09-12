@@ -1,11 +1,11 @@
 <title>Aurélie Bonet, développeuse</title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta name="keywords" content=" Aurélie Bonet, développeuse, chef de projet, chef de projet multimédia, Vaucluse, cv, portfolio, réalisations, contacter, contact, formulaire, Provence Alpes Côte d'Azur, PACA, développeur, concepteur, programmeur, conceptrice, programmeuse"/>
+<meta name="keywords" content=" Aurélie Bonet, développeuse web, chef de projet, chef de projet multimédia, Vaucluse, cv, portfolio, réalisations, contacter, contact, formulaire, Provence Alpes Côte d'Azur, PACA, développeur web, concepteur, programmeur, conceptrice, programmeuse"/>
 <meta name="description" content="Aurélie Bonet, développeuse web junior dont le dommaine de compétences est assez vaste et qui est à la recherche d'un emploi."/>
 <meta name="robots" content="noindex"/>
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-<title>Aurélie BONET, développeuse</title>
+<title>Aurélie BONET, développeuse web</title>
 <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 <!-- Bootstrap -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
