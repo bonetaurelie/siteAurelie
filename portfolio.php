@@ -33,41 +33,47 @@
                 <h2 itemprop="name" class="text-center">Mes réalisations:</h2>
             </header>
             <p>Voici une présentation des projets réalisés:</p>
-            <ul>
-                <li itemprop="description">Projet mon village avec Bootstrap</li>
-                <li itemprop="description">Projet mon village en wordpress</li>
-                <li itemprop="description">Projet gestionnaire de livres prise en main de Symfony2</li>
-                <li itemprop="description">Site personnel</li>
-                <li itemprop="description">Site Sensabloc wordpress</li>
-                <li itemprop="description">Projet Nos amis les oiseaux en Symfony3 : projet en groupe, poste d'intégratrice et chef de projet</li>
-                <li itemprop="description">Projet Billetterie du Louvre en Symfony2</li>
-                <li itemprop="description">Projet Multilingua avec le Framework IONIC</li>
-            </ul>
             <section>
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a itemprop="url" href="images/Site-village/index.html" class="image fit"><img src="images/mon village bootstrap.PNG" alt="Projet Bootstrap mon village"></a>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <figure><a itemprop="url" href="images/Site-village/index.html" class="image fit"><img src="images/mon village bootstrap.PNG" alt="Projet Bootstrap mon village"></a>
+                            <figcaption itemprop="description">Projet mon village avec Bootstrap qui avait pour objectif de prendre en main le framework Bootstrap.</figcaption>
+                        </figure>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a itemprop="url" href="http://www.projetSaint-Didier.fr" class="image fit"><img src="images/accueil%20wpSaintDidier.PNG" alt="Projet Wordpress mon village"></a>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <figure><a itemprop="url" href="http://www.projetSaint-Didier.fr" class="image fit"><img src="images/accueil%20wpSaintDidier.PNG" alt="Projet Wordpress mon village"></a>
+                            <figcaption itemprop="description">Projet mon village en Wordpress : Sur une configuration similaire au projet Mon village en Bootstrap, utilisation de Woordpress pour un premier projet de ce type</figcaption>
+                        </figure>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a itemprop="url" href="https://gestionnaire.herokuapp.com/" class="image fit"><img src="images/gestionnaire.PNG" alt="Projet Symfony2/Bootstrap"></a>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <figure><a itemprop="url" href="https://gestionnaire.herokuapp.com/" class="image fit"><img src="images/gestionnaire.PNG" alt="Projet Symfony2/Bootstrap"></a>
+                            <figcaption itemprop="description">Projet gestionnaire de livres pour une prise en main de Symfony2</figcaption>
+                        </figure>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a itemprop="url" href="http://www.aureliebonet.fr/aProposDeMoi.php" class="image fit"><img src="images/accueilSitePerso.PNG" alt="Projet Symfony2/Bootstrap/JQuery"></a>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <figure><a itemprop="url" href="http://www.aureliebonet.fr/aProposDeMoi.php" class="image fit"><img src="images/accueilSitePerso.PNG" alt="Projet Symfony2/Bootstrap/JQuery"></a>
+                            <figcaption itemprop="description">Site personnel en HTML5/CSS3, Bootstrap ainsi que PHP pour l'envoi de mail lors de la validation du formulaire</figcaption>
+                        </figure>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a itemprop="url" href="http://www.sensabloc.fr" class="image fit"><img src="images/sensabloc.PNG" alt="Projet Sensabloc"></a>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <figure><a itemprop="url" href="http://www.sensabloc.fr" class="image fit"><img src="images/sensabloc.PNG" alt="Projet Sensabloc"></a>
+                            <figcaption itemprop="description">Site Sensabloc réalisé bénévolement pour une association avec le CMS Wordpress  </figcaption>
+                        </figure>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a itemprop="url" href="http://nalo-oc-projet6.herokuapp.com/" class="image fit"><img src="images/accueilNAO.PNG" alt="Projet Nos Amis les Oiseaux"></a>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <figure><a itemprop="url" href="http://nalo-oc-projet6.herokuapp.com/" class="image fit"><img src="images/accueilNAO.PNG" alt="Projet Nos Amis les Oiseaux"></a>
+                            <figcaption itemprop="description">Projet Nos amis les oiseaux en Symfony3 : projet en groupe, poste d'intégratrice et chef de projet</figcaption>
+                        </figure>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a itemprop="url" href="https://projet-louvre.herokuapp.com/" class="image fit"><img src="images/accueilLouvre.PNG" alt="Projet Billetterie du Louvre"></a>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <figure><a itemprop="url" href="https://projet-louvre.herokuapp.com/" class="image fit"><img src="images/accueilLouvre.PNG" alt="Projet Billetterie du Louvre"></a>
+                            <figcaption itemprop="description">Projet Billetterie du Louvre en Symfony2 : Système de réservation en ligne de son billet avec paiement de celui-ci</figcaption>
+                        </figure>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <a itemprop="url" href="https://github.com/bonetaurelie/projetMultilingua.git" class="image fit">Projet Multilingua Framework IONIC</a>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <figure><a itemprop="url" href="https://github.com/bonetaurelie/projetMultilingua.git" class="image fit">Projet Multilingua Framework IONIC</a>
+                            <figcaption itemprop="description">Projet pour permettre de recevoir des cours de langues étrangères et des notifications de sessions</figcaption>
+                        </figure>
                     </div>
                 </div>
             </section>
